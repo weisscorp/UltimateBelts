@@ -55,7 +55,7 @@ data:extend(
         recipe = "extreme-fast-splitter"
       }
     },
-    prerequisites = {"ultra-fast-logistics", "advanced-electronics-2"},
+    prerequisites = {"ultra-fast-logistics", "electronics"},
     unit =
     {
       count = 300,
